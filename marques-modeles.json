@@ -1,0 +1,16 @@
+{
+  "marques": [
+      {
+          "nom": "Peugeot",
+          "modeles": ["208", "308", "5008"]
+      },
+      {
+          "nom": "Renault",
+          "modeles": ["Clio", "Megane", "Captur"]
+      },
+      {
+          "nom": "Ford",
+          "modeles": ["Fiesta", "Focus", "Kuga"]
+      }
+  ]
+}
